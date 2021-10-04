@@ -15,7 +15,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 :root {
     --primercolor: #00838A; /* texto grande, encabezados*/
     --segundocolor: #f1f1f1; /* FONDO todo el fondo */ 
-    --tercercolor: #ABEBEB; /* links y el fondo del FOOTER (con los 3 cuadraditos) */
+    --tercercolor: #CA4952; /* links y el fondo del FOOTER (con los 3 cuadraditos) */
     --colorclaro: #FFBBF8; /* el fondo de los 3 cuadraditos*/
     --coloroscuro: #112796; /* texto chiquito */
 }
