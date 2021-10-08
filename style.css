@@ -137,6 +137,13 @@ footer a:hover {
     color: var--(segundocolor) ;
 }
 
+whitetext h3 {
+    color: var--(segundocolor) ;
+}
+
+.whitetext h3 {
+    color: var--(segundocolor) ;
+}
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
 
                             No es necesario modificar lo que sigue
