@@ -172,6 +172,6 @@ footer a:hover {
     font-size: 0.8rem;
 }
 
-#whitetext {
+#whitetext h3 {
     color: var--(segundocolor) ;
 }
