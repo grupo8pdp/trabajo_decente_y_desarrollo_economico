@@ -146,6 +146,10 @@ whitetext h3 {
 .whitetext {
     color: #fff;
 }
+
+.links {
+    color: var(--primercolor)
+}
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
 
                             No es necesario modificar lo que sigue
