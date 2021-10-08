@@ -101,7 +101,7 @@ Con tales colores, la imagen sirve de transición a la parte que ofrece más inf
 --------------------------------------------------------------------------------------------- */
 
 main {
-    background-image: url("img/relacion-21x9.png");
+    background-image: url("img/sofplz.png");
     background-position: center bottom;
     background-repeat: repeat-x;
     background-size: 100% auto;
@@ -130,6 +130,11 @@ footer a {
 footer a:hover {
     text-decoration: none;
     color: var(--coloroscuro);
+}
+
+
+#whitetext h3 {
+    color: var--(segundocolor) ;
 }
 
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
@@ -172,6 +177,3 @@ footer a:hover {
     font-size: 0.8rem;
 }
 
-#whitetext h3 {
-    color: var--(segundocolor) ;
-}
