@@ -135,21 +135,46 @@ footer a:hover {
 
 
 
-.whitetext  {
-    color: #f1f1f1;
+whitetext h3 h2 h1 {
+    color: #fff;
 }
+
 
 .whitetext h3 h2 h1{
     color: #fff;
 }
 
-.whitetext {
+.whitetext h2 h1{
     color: #fff;
 }
 
+.titulos h1 h2{
+    color: #f1f1f1;
+}
 
+
+titulos h1 h2{
+    color: #f1f1f1;
+}
+
+.titulos {
+    color: #f1f1f1;
+}
+
+.titulos h1 h2{
+    color: #f1f1f1;
+}
+
+
+links {
+    color: var(--primercolor);
+}
 
 .links {
+    color: var(--primercolor);
+}
+
+#links {
     color: var(--primercolor);
 }
 
