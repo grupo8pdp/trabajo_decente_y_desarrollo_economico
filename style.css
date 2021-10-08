@@ -135,48 +135,29 @@ footer a:hover {
 
 
 
-whitetext h3 h2 h1 {
+whitetext  h4 h3 h2 h1 {
     color: #fff;
 }
 
 
-.whitetext h3 h2 h1{
+.whitetext h4 h3 h2 h1{
     color: #fff;
 }
 
-.whitetext h2 h1{
+.whitetext h4 h3 h2 h1{
     color: #fff;
 }
 
-.titulos h1 h2{
-    color: #f1f1f1;
+#whitetext h4 h3 h2 h1{
+    color: #fff;
 }
 
 
-titulos h1 h2{
-    color: #f1f1f1;
-}
-
-.titulos {
-    color: #f1f1f1;
-}
-
-.titulos h1 h2{
-    color: #f1f1f1;
-}
 
 
-links {
-    color: var(--primercolor);
-}
 
-.links {
-    color: var(--primercolor);
-}
 
-#links {
-    color: var(--primercolor);
-}
+
 
 .link-light {
     color: var(--primercolor);
