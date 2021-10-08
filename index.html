@@ -204,15 +204,13 @@
         <script>
             var ctx = document.getElementById("nuestroGrafico");
             var nuestroGrafico = new Chart(ctx, {
-                type: "line",
+                type: "polarArea",
                 data: {
-                    labels: ["Red", "Blue", "Yellow", "Green", "Cyan", "Magenta"],
+                    labels: ["Hombres no podrían", "Mujeres no podrían", "Hombres podrían", "Mujeres podrían"],
                     datasets: [
                         {
-                            label: "# of Votes",
-                            data: [12, 19, 3, 5, 2, 3],
-                            backgroundColor: ["#FF0000", "#0000FF", "#FFFF00", "#00FF00", "#00FFFF", "#FF00FF"],
-                            borderWidth: 1,
+                            data: [49, 62, 31, 38],
+                            backgroundColor: ["#FF0000", "#0000FF", "#FFFF00", "#00FF00"],
                         },
                     ],
                 },
