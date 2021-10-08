@@ -140,9 +140,28 @@ whitetext h3 {
 }
 
 
-links {
-    color: var(--primercolor)
+.whitetext h3 {
+    color: #fff;
 }
+
+.whitetext {
+    color: #fff;
+}
+
+
+links {
+    color: var(--primercolor);
+}
+
+.links {
+    color: var(--primercolor);
+}
+
+#links {
+    color: var(--primercolor);
+}
+
+
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
 
                             No es necesario modificar lo que sigue
