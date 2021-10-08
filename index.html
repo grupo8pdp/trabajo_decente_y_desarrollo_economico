@@ -208,20 +208,27 @@ Además, a la mujer le resulta más dificil conseguir empleo que al hombre, y es
             var nuestroGrafico = new Chart(ctx, {
                 type: "polarArea",
                 data: {
-                    labels: ["Hombres no podrían", "Mujeres no podrían", "Hombres podrían", "Mujeres podrían"],
+                    labels: ["Hombres no podrían", "Hombres podrían", "Mujeres no podrían", "Mujeres podrían"],
                     datasets: [
                         {
-                            data: [49, 62, 31, 38],
-                            backgroundColor: ["#FF0000", "#0000FF", "#FFFF00", "#00FF00"],
+                            data: [49, 31, 62, 38],
+                            backgroundColor: ["#00838A", "#00BAC6", "#CA4952", "#F87780"],
                         },
                     ],
                 },
                 options: {
-                    scales: {
-                        y: {
-                            beginAtZero: true,
-                        },
+                    layout: {
+                        padding: 50
                     },
+                    plugins: {
+                        legend:{
+                          position: "bottom"
+                         },
+                        title: {
+                            display: true,
+                            text: '% De trabajadores que podrían sacar a sus familias de la pobreza',
+                        }
+                     }
                 },
             });
         </script>
