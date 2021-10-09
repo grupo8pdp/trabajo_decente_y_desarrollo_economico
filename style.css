@@ -133,30 +133,9 @@ footer a:hover {
 }
 
 
-
-
-whitetext  h4 h3 h2 h1 {
-    color: #fff;
+.whitetext {
+    color: #f1f1f1;
 }
-
-
-.whitetext h4 h3 h2 h1{
-    color: #fff;
-}
-
-.whitetext h4 h3 h2 h1{
-    color: #fff;
-}
-
-#whitetext h4 h3 h2 h1{
-    color: #fff;
-}
-
-
-
-
-
-
 
 
 .link-light {
