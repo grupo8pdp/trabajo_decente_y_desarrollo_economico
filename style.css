@@ -51,7 +51,7 @@ a {
 }
 
 a:hover {
-    color: #a30a14;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -137,7 +137,7 @@ footer a:hover {
     color: #f1f1f1;
 }
 
-
+/*
 .link-light {
     color: var(--primercolor);
 }
@@ -150,6 +150,7 @@ link-light {
 #link-light {
     color: var(--primercolor);
 }
+*(
 
 /* viendo como cambia al tener mouse esobre*/
 link-light:hover {
@@ -166,6 +167,7 @@ link-light:hover {
     color: #a30a14;
     text-decoration: none;
 }
+*/
 
 
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
