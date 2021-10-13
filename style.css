@@ -51,7 +51,7 @@ a {
 }
 
 a:hover {
-    color: var(--colorclaro);
+    color: var(--tercercolor;
     text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: var(--segundocolor);
+    color: var(--tercercolor);
 }
 
 footer a:hover {
