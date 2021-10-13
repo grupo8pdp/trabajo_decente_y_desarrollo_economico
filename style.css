@@ -51,7 +51,7 @@ a {
 }
 
 a:hover {
-    color: var(--tercercolor;
+    color: var(--tercercolor);
     text-decoration: none;
 }
 
